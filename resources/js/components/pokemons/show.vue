@@ -20,6 +20,7 @@
         data(){
             return {
                 pokemon:''
+
             }
         },
         created(){
