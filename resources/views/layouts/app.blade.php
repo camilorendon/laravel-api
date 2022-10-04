@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Home') }}</title>
+    <title>{{ config('app.name', 'laravel') }}</title>
 
     <meta property="og:type" content="camilo poke api" />
     <meta property="og:title" content="poke api camilo rendon" />
