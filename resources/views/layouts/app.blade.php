@@ -9,6 +9,13 @@
 
     <title>{{ config('app.name', 'Laravel') }}</title>
 
+    <meta property="og:type" content="camilo poke api" />
+    <meta property="og:title" content="poke api camilo rendon" />
+    <meta property="og:description" content="Nicolas Es El Mejor" />
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/74920454?v=4" />
+    <meta property="og:url" content="http://apicamilo.herokuapp.com/" />
+
+
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
